@@ -5,9 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34be6193-7bec-4dc3-9ede-cfbff43bc2ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/amenity/all_amenities.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/amenity/delete_amenity.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/amenity/get_amenity.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/amenity/post_amenity.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/amenity/put_amenity.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/city/cities_by_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/city/delete_city.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/city/get_city.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/city/post_city.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/city/put_city.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/delete_place.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/get_place.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/get_places.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/post_place.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/post_search.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place/put_place.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place_amenity/delete_place_amenities.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place_amenity/get_places_amenities.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/place_amenity/post_place_amenities.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/reviews/delete_reviews.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/reviews/get_review.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/reviews/get_reviews.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/reviews/post_reviews.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/reviews/put_reviews.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/state/delete_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/state/get_id_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/state/get_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/state/post_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/state/put_state.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/user/all_users.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/user/delete_user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/user/get_user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/user/post_user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/documentation/user/put_user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/v1/views/places_amenities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AirBnB_clone_v3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AirBnB_clone_v3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/amenities.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/amenities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/cities.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/cities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/places.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/places.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/places_reviews.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/places_reviews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/states.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/states.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/views/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/views/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/base_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/base_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/city.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/city.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/engine/db_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/engine/db_storage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/engine/file_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/engine/file_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/place.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +79,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XLA3UBQULPChqLXln4pu5c8s8s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,5 +105,28 @@
       <updated>1698397786802</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/debug" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
